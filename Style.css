@@ -1,0 +1,25 @@
+body{
+     background-image: url("stefan-stefancik-5p_7M5MP2Iw-unsplash.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     
+}
+.container{
+    margin:0%;
+    
+}
+
+form{
+    margin :0%;
+    padding: 25px;
+    box-shadow: 10px 10px 8px 10px #888888;
+    background-color: aliceblue;
+    float: right; 
+    width: 45%;
+}
+.para p{
+    text-align: center;
+    margin:0;
+    margin-top:10px;
+}
